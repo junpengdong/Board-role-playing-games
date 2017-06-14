@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5716217-913f-420b-98f7-023e0367817a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -525,12 +525,20 @@
       <option name="presentableId" value="Default" />
       <updated>1497421248057</updated>
       <workItem from="1497421254161" duration="1422000" />
-      <workItem from="1497423552883" duration="84000" />
+      <workItem from="1497423552883" duration="1487000" />
     </task>
+    <task id="LOCAL-00001" summary="提交代码">
+      <created>1497423677061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497423677061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1506000" />
+    <option name="totallyTimeSpent" value="2909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -578,6 +586,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
